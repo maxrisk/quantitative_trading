@@ -1,0 +1,215 @@
+{
+    "symbol": "9988.HK",
+    "timestamp": "20250324140050",
+    "metric": "sharpe_ratio",
+    "best_params": {
+        "ma_short": 5,
+        "ma_long": 20,
+        "rsi_period": 10,
+        "rsi_oversold": 25,
+        "rsi_overbought": 70
+    },
+    "best_value": 0.5441356501419146,
+    "top_results": [
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 20,
+                "rsi_period": 10,
+                "rsi_oversold": 25,
+                "rsi_overbought": 70
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 20,
+                "rsi_period": 10,
+                "rsi_oversold": 25,
+                "rsi_overbought": 75
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 20,
+                "rsi_period": 10,
+                "rsi_oversold": 30,
+                "rsi_overbought": 70
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 20,
+                "rsi_period": 10,
+                "rsi_oversold": 30,
+                "rsi_overbought": 75
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 20,
+                "rsi_period": 14,
+                "rsi_oversold": 25,
+                "rsi_overbought": 70
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 20,
+                "rsi_period": 14,
+                "rsi_oversold": 25,
+                "rsi_overbought": 75
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 20,
+                "rsi_period": 14,
+                "rsi_oversold": 30,
+                "rsi_overbought": 70
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 20,
+                "rsi_period": 14,
+                "rsi_oversold": 30,
+                "rsi_overbought": 75
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 30,
+                "rsi_period": 10,
+                "rsi_oversold": 25,
+                "rsi_overbought": 70
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 30,
+                "rsi_period": 10,
+                "rsi_oversold": 25,
+                "rsi_overbought": 75
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 30,
+                "rsi_period": 10,
+                "rsi_oversold": 30,
+                "rsi_overbought": 70
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 30,
+                "rsi_period": 10,
+                "rsi_oversold": 30,
+                "rsi_overbought": 75
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 30,
+                "rsi_period": 14,
+                "rsi_oversold": 25,
+                "rsi_overbought": 70
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 30,
+                "rsi_period": 14,
+                "rsi_oversold": 25,
+                "rsi_overbought": 75
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 30,
+                "rsi_period": 14,
+                "rsi_oversold": 30,
+                "rsi_overbought": 70
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 5,
+                "ma_long": 30,
+                "rsi_period": 14,
+                "rsi_oversold": 30,
+                "rsi_overbought": 75
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 10,
+                "ma_long": 20,
+                "rsi_period": 10,
+                "rsi_oversold": 25,
+                "rsi_overbought": 70
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 10,
+                "ma_long": 20,
+                "rsi_period": 10,
+                "rsi_oversold": 25,
+                "rsi_overbought": 75
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 10,
+                "ma_long": 20,
+                "rsi_period": 10,
+                "rsi_oversold": 30,
+                "rsi_overbought": 70
+            },
+            "value": 0.5441356501419146
+        },
+        {
+            "params": {
+                "ma_short": 10,
+                "ma_long": 20,
+                "rsi_period": 10,
+                "rsi_oversold": 30,
+                "rsi_overbought": 75
+            },
+            "value": 0.5441356501419146
+        }
+    ]
+}

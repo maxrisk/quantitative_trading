@@ -1,0 +1,330 @@
+{
+    "positions": {
+        "QQQ.US": {
+            "symbol": "QQQ.US",
+            "quantity": 1.0,
+            "cost_price": 491.22,
+            "current_price": 480.84,
+            "market_value": 491.22,
+            "entry_time": "2025-03-24 14:13:37"
+        }
+    },
+    "orders": {
+        "test_order_1": {
+            "symbol": "9988.HK",
+            "side": "Sell",
+            "quantity": 200.0,
+            "price": 130.5,
+            "status": "OrderStatus.Submitted",
+            "time": "2025-03-24 12:45:00"
+        },
+        "1088685217295036416": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:46:22",
+            "processed": true
+        },
+        "1088685259163463680": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:46:32",
+            "processed": true
+        },
+        "1088685660676317184": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:48:08",
+            "processed": true
+        },
+        "1088685702652391424": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:48:18",
+            "processed": true
+        },
+        "1088685745002278912": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:48:28",
+            "processed": true
+        },
+        "1088685786542665728": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:48:38",
+            "processed": true
+        },
+        "1088685828498288640": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:48:48",
+            "processed": true
+        },
+        "1088685870445522944": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:48:58",
+            "processed": true
+        },
+        "1088685912391872512": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:49:08",
+            "processed": true
+        },
+        "1088685954481713152": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:49:18",
+            "processed": true
+        },
+        "1088685996760297472": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:49:28",
+            "processed": true
+        },
+        "1088686038331449344": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:49:38",
+            "processed": true
+        },
+        "1088686080303329280": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:49:48",
+            "processed": true
+        },
+        "1088686122196037632": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:49:58",
+            "processed": true
+        },
+        "1088686164143792128": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:50:08",
+            "processed": true
+        },
+        "1088686206203752448": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:50:18",
+            "processed": true
+        },
+        "1088686248541057024": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:50:28",
+            "processed": true
+        },
+        "1088686290026917888": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Canceled",
+            "time": "2025-03-24 12:50:38",
+            "processed": true
+        },
+        "1088686331944792064": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:50:48",
+            "processed": true
+        },
+        "1088686373904609280": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:50:58",
+            "processed": true
+        },
+        "1088686415870992384": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:51:08",
+            "processed": true
+        },
+        "1088686458033958912": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:51:18",
+            "processed": true
+        },
+        "1088686500287897600": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:51:28",
+            "processed": true
+        },
+        "1088686541722906624": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:51:38",
+            "processed": true
+        },
+        "1088686583712083968": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:51:48",
+            "processed": true
+        },
+        "1088686625637462016": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:51:58",
+            "processed": true
+        },
+        "1088686667565129728": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:52:08",
+            "processed": true
+        },
+        "1088686709520232448": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:52:18",
+            "processed": true
+        },
+        "1088686751949811712": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:52:28",
+            "processed": true
+        },
+        "1088686793423089664": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:52:38",
+            "processed": true
+        },
+        "1088686835529707520": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Rejected",
+            "time": "2025-03-24 12:52:48",
+            "processed": true
+        },
+        "1088687243522760704": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 400.0,
+            "price": 55.6,
+            "status": "OrderStatus.Filled",
+            "time": "2025-03-24 12:54:25",
+            "processed": true
+        },
+        "1088688832702083072": {
+            "symbol": "1810.HK",
+            "side": "Buy",
+            "quantity": 200,
+            "price": 55.6,
+            "status": "OrderStatus.Filled",
+            "time": "2025-03-24 13:00:44",
+            "processed": true
+        },
+        "1088691097698152448": {
+            "symbol": "1810.HK",
+            "side": "Sell",
+            "quantity": 200.0,
+            "price": 55.6,
+            "status": "OrderStatus.Filled",
+            "time": "2025-03-24 13:09:44",
+            "processed": true
+        }
+    },
+    "is_trading": true,
+    "timestamp": "2025-03-24 14:13:37"
+}

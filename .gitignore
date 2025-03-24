@@ -1,0 +1,47 @@
+# Python 相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 环境文件（包含敏感信息）
+.env
+
+# 日志文件
+*.log
+
+# macOS 相关
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 个人配置
+*.swp
+*.swo
+
+# 测试执行生成的缓存文件
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE 相关
+.idea/
+.vscode/
