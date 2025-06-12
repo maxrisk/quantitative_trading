@@ -133,9 +133,9 @@ def generate_signals(df):
 # 回测策略
 def backtest(df, initial_capital=100000):
     df['Position'] = 0
-    df['Cash'] = initial_capital
-    df['Holdings'] = 0
-    df['Portfolio'] = initial_capital
+    df['Cash'] = float(initial_capital)
+    df['Holdings'] = 0.0
+    df['Portfolio'] = float(initial_capital)
     
     position = 0
     cash = initial_capital
